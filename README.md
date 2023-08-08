@@ -13,4 +13,4 @@ Códigos estão disponíveis em [Individual/Codeforces/EDU152_div2](https://gith
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
-Pefil no AtCoder: [otaviools](https://atcoder.jp/users/otaviools)
+Perfil no AtCoder: [otaviools](https://atcoder.jp/users/otaviools)
