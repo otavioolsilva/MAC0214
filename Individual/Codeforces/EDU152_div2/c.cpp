@@ -11,54 +11,32 @@ typedef long long ll;
 const int INF = 0x3f3f3f3f, MAXN = 1e5+10;
 const ll MOD = 1e9+7, INFLL = 0x3f3f3f3f3f3f3f3f, oo = INFLL;
 
-vector<pair<int, int>> acc, queries;
-
 void solve(){
-  int n, m;
-  cin >> n >> m;
+  int n, m; cin >> n >> m;
+  string s; cin >> s;
 
-  acc.assign(n+1, make_pair(0, 0)); // {qtd 0's, qtd 1's}
-
-  for(int i = 1; i <= n; i++){
-    acc[i] = acc[i-1];
-
-    char c; cin >> c;
-    if(c == '0') acc[i].first++;
-    else acc[i].second++;
+  vector<pair<int, int>> count(n); // {próximo 1 à minha direita, próximo 0 à minha esquerda}
+  for(int i = 0; i < n; i++){
+    if(s[i] == '0') count[i].second = i;
+    else count[i].second = (i == 0 ? -1 : count[i-1].second);
+  }
+  for(int i = n-1; i >= 0; i--){
+    if(s[i] == '1') count[i].first = i;
+    else count[i].first = (i == n-1 ? n : count[i+1].first);
   }
 
-  queries.resize(m);
+  set<pair<int, int>> ans;
+  bool flag = false;
+  for(int i = 0; i < m; i++){
+    int l, r; cin >> l >> r;
+    
+    l = count[l-1].first; r = count[r-1].second;
 
-  for(int i = 0; i < m; i++)
-    cin >> queries[i].first >> queries[i].second;
-
-  sort(queries.begin(), queries.end());
-
-  int ans = 1;
-  int bf_0 = acc[queries[0].second].first - acc[queries[0].first-1].first;
-  int bf_1 = acc[queries[0].second].second - acc[queries[0].first-1].second;
-
-  bool flag = (bf_0 == 0 || bf_1 == 0);
-
-  for(int i = 1; i < m; i++){
-    int now_0 = acc[queries[i].second].first - acc[queries[i].first-1].first;
-    int now_1 = acc[queries[i].second].second - acc[queries[i].first-1].second;
-
-    if(now_0 == 0 || now_1 == 0){ // ordenar não afeta a string original
-      if(!flag) flag = true, ans++;
-      
-      bf_0 = now_0, bf_1 = now_1;
-
-      continue;
-    }
-
-    if(queries[i].first > queries[i-1].second) ans++, continue;
-
-    if(now_0 && acc[queries[i].second] - acc[queries[i-1].second-1].second) ans++;
-    else if()
+    if(l < r) ans.emplace(l, r);
+    else if(!flag) ans.emplace(-1, -1), flag = true;
   }
 
-  cout << ans << "\n";
+  cout << ans.size() << "\n";
 }
 
 signed main(){
