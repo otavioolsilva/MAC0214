@@ -23,7 +23,14 @@ Códigos não estão disponíveis.
 
 ---
 
-## Total de horas: 13 horas
+## 18/AGO - 5 horas
+Junto ao meu time (Pedro Simões e Rafael Sesoko), simulados a prova [2023 Jiangsu Collegiate Programming Contest](https://codeforces.com/gym/104396) no Gym do Codeforces como forma de preparação para a 1a Fase da Maratona SBC de Programação que ocorrerá no dia 02/SET. Senti que esta foi uma prova um pouco mais difícil em relação às outras que haviámos feito até o momento e acredito que apresentamos um resultado legal dentro do que fomos capazes. Passamos 6 questões de 12 e talvez, com um pouco mais de tempo, poderíamos ter tentado mais uma, o Sesoko chegou num pensamento promissor pra questão E. Ainda temos que melhorar um pouco na administração do tempo, mas nossa comunicação sem dúvida já melhorou bastante (ter passado a K é um bom sinal disso).
+
+Códigos estão disponíveis em [Grupo/2023-Jiangsu-Collegiate-Programming-Contest](https://github.com/otavioolsilva/MAC0214/tree/main/Grupo/2023-Jiangsu-Collegiate-Programming-Contest/).
+
+---
+
+## Total de horas: 18 horas
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
