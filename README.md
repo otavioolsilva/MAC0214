@@ -30,7 +30,14 @@ Códigos estão disponíveis em [Grupo/2023-Jiangsu-Collegiate-Programming-Conte
 
 ---
 
-## Total de horas: 18 horas
+## 24/AGO - 2 horas
+Realizei ao vivo o contest [Codeforces Round 894 (Div. 3)](https://codeforces.com/contest/1862) no Codeforces. Acho que meu desempenho foi abaixo do que eu gostaria pra um div. 3, sem dúvida tem me faltado prática com contests individuais como esse. Comecei atrasado por conta de alguns contratempos, mas acredito que não demorei tanto nas primeiras questões. Acabei por empacar no problema E e não tive nenhuma ideia que fosse proveitosa. Cheguei a ler o problema F, mas por tempo preferi insistir no E. Conversando depois com o Marcelo, que também fez o contest, consegui entender qual era a ideia do problema e realmente não atinei pra o detalhe que ele explorava. Por ser ad-hoc, acho que realmente foi falta de prática.
+
+Códigos estão disponíveis em [Individual/Codeforces/894_div3](https://github.com/otavioolsilva/MAC0214/tree/main/Individual/Codeforces/894_div3)
+
+---
+
+## Total de horas: 20 horas
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
