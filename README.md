@@ -38,14 +38,14 @@ Códigos estão disponíveis em [Individual/Codeforces/894_div3](https://github.
 
 ---
 
-## 25/AGO - 5 horas
+## 25/AGO - 9 horas (5h + 4h upsolving)
 Junto ao meu time (Pedro Simões e Rafael Sesoko), simulamos a prova [2022-2023 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/104252) no Gym do Codeforces, como forma de treinamento para a 1a Fase da Maratona SBC. Esta foi a prova da última final brasileira e fiquei bem feliz e surpreso com nosso resultado quando comparamos nosso desempenho com os demais times brasileiros, observando o placar divulgado da competição. Fomos capazes de fazer 5 problemas e creio eu que se houvesse mais algum tempo teríamos ainda passado o problema C, que era bem interessante. Fiquei muito tempo da prova preso nele e infelizmente no final acabamos não o entregando, mas me aparenta que este era realmente o próximo em questão de dificuldade quando comparado com os demais problemas.
 
 Códigos estão disponíveis em [Grupo/22-23-ICPC-Latin-American-Regional](https://github.com/otavioolsilva/MAC0214/tree/main/Grupo/22-23-ICPC-Latin-American-Regional/).
 
 ---
 
-## Total de horas: 25 horas
+## Total de horas: 29 horas
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
