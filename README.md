@@ -16,10 +16,10 @@ Códigos estão disponíveis em [Grupo/2016-USP-Try-outs](https://github.com/ota
 
 ---
 
-## 12/AGO - 5 horas
+## 12/AGO - 8 horas (5h + 3h upsolving)
 Junto ao meu time (Pedro Simões e Rafael Sesoko), participamos da [Seletiva USP 2023](https://codeforces.com/gym/104505) que ocorreu presencialmente no CEC (IME-USP). Acredito que, em oposição à prova do dia 11/AGO, dessa vez desempenhamos muito bem e entregamos o que estava ao nosso alcance. Ficamos em terceiro lugar no placar geral com 7 questões resolvidas de um total de 13, sendo que 3 destas eu codei. No final, o Pedro ainda tinha uma possível ideia pra mais uma, mas o tempo já era insuficiente (e conversando com a galera depois da prova, provavelmente nossa ideia precisava ser elaborada melhor). Ainda assim, creio que a comunicação entre o time funcionou muito bem ao longo da prova e, apesar de alguns vacilos (principalmente da minha parte com uns errinhos de código), a prova fluiu muito bem. :)
 
-Códigos não estão disponíveis.
+Códigos estão disponíveis em [Grupo/2023-USP-Try-outs](https://github.com/otavioolsilva/MAC0214/tree/main/Grupo/2023-USP-Try-outs) (apenas upsolving).
 
 ---
 
@@ -45,7 +45,7 @@ Códigos estão disponíveis em [Grupo/22-23-ICPC-Latin-American-Regional](https
 
 ---
 
-## Total de horas: 29 horas
+## Total de horas: 32 horas
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
