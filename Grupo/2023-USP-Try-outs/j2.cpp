@@ -1,3 +1,7 @@
+// Complicou demais a solução na j.cpp, só a árvore da DFS
+// é suficiente pra contabilizar tudo que é necessário
+// (pelo menos lembrou Kruskal e DSU, vai que né)
+
 #include <bits/stdc++.h>
 using namespace std;
  
@@ -12,52 +16,13 @@ const int INF = 0x3f3f3f3f, MAXM = 5e5+10;
 const ll MOD = 1e9+7, INFLL = 0x3f3f3f3f3f3f3f3f, oo = INFLL;
 
 int n, m, color[MAXM];
-vector<array<int, 3>> edges; // grafo geral
-vector<pair<int, int>> adj[MAXM]; // só árvore
-
-// gerando árvore
-
-int parent[MAXM], sz[MAXM];
-
-void dsu_build(){
-  for(int i = 1; i <= m; i++){
-    parent[i] = i;
-    sz[i] = 1;
-  }
-}
-
-int dsu_find(int x){
-  if(x == parent[x]) return x;
-  return x = dsu_find(parent[x]);
-}
-
-void dsu_union(int a, int b){
-  a = dsu_find(a);
-  b = dsu_find(b);
-
-  if(a == b) return;
-
-  if(sz[a] < sz[b]) swap(a, b);
-  parent[b] = a;
-  sz[a] += sz[b];
-}
-
-void kruskal(){
-  dsu_build();
-
-  for(auto [a, b, i] : edges) if(dsu_find(a) != dsu_find(b)){
-    adj[a].push_back({b, i});
-    adj[b].push_back({a, i});
-    dsu_union(a, b);
-  }
-}
-
-// achando os caminhos na árvore
-
-map<int, int> cont;
+vector<pair<int, int>> adj[MAXM];
+bool seen[MAXM];
 set<int> ans;
 
 void dfs(int u, int p){
+  seen[u] = 1;
+
   if(adj[u].size() == 1 && adj[u][0].first == p){ // caso folha
     if(color[u]){
       color[p] ^= 1;
@@ -70,13 +35,14 @@ void dfs(int u, int p){
   int id_p = 0;
 
   for(auto [v, i] : adj[u]){
-    if(v != p)
+    if(!seen[v])
       dfs(v, u);
-    else
+    
+    if(v == p)
       id_p = i;
   }
 
-  if(color[u]){
+  if(color[u] && u != p){
     color[p] ^= 1;
     ans.insert(id_p);
   }
@@ -88,27 +54,26 @@ signed main(){
 
   cin >> n >> m;
 
-  edges.resize(n);
-  for(int i = 0; i < n; i++){
-    cin >> edges[i][0] >> edges[i][1];
-    edges[i][2] = i+1;
+  for(int i = 1; i <= n; i++){
+    int a, b; cin >> a >> b;
+    adj[a].push_back({b, i});
+    adj[b].push_back({a, i});
   }
 
   for(int i = 1; i <= m; i++)
     cin >> color[i];
 
-  kruskal();
+  memset(seen, 0, sizeof(seen));
 
-  for(int i = 1; i <= m; i++)
-    cont[dsu_find(i)] += color[i];
+  for(int i = 1; i <= m; i++){
+    if(seen[i]) continue;
 
-  for(auto [k, c] : cont){
-    if(c&1){
+    dfs(i, i);
+
+    if(color[i]){ // deu ímpar na componente conexa
       cout << "-1\n";
       return 0;
     }
-
-    dfs(k, k);
   }
 
   cout << ans.size() << "\n";
