@@ -33,7 +33,7 @@ Códigos estão disponíveis em [Grupo/2023-Jiangsu-Collegiate-Programming-Conte
 ## 24/AGO - 2 horas
 Realizei ao vivo o contest [Codeforces Round 894 (Div. 3)](https://codeforces.com/contest/1862) no Codeforces. Acho que meu desempenho foi abaixo do que eu gostaria pra um div. 3, sem dúvida tem me faltado prática com contests individuais como esse. Comecei atrasado por conta de alguns contratempos, mas acredito que não demorei tanto nas primeiras questões. Acabei por empacar no problema E e não tive nenhuma ideia que fosse proveitosa. Cheguei a ler o problema F, mas por tempo preferi insistir no E. Conversando depois com o Marcelo, que também fez o contest, consegui entender qual era a ideia do problema e realmente não atinei pra o detalhe que ele explorava. Por ser ad-hoc, acho que realmente foi falta de prática.
 
-Códigos estão disponíveis em [Individual/Codeforces/894_div3](https://github.com/otavioolsilva/MAC0214/tree/main/Individual/Codeforces/894_div3)
+Códigos estão disponíveis em [Individual/Codeforces/894_div3](https://github.com/otavioolsilva/MAC0214/tree/main/Individual/Codeforces/894_div3).
 
 
 ---
@@ -45,7 +45,14 @@ Códigos estão disponíveis em [Grupo/22-23-ICPC-Latin-American-Regional](https
 
 ---
 
-## Total de horas: 32 horas
+## 01/SET - 5 horas
+Junto ao meu time (Pedro Simões e Rafael Sesoko), simulados a prova [2022 Benelux Algorithm Programming Contest (BAPC 22)](https://codeforces.com/gym/104020) no Gym do Codeforces, como forma de último treinamento antes da 1a Fase da Maratona SBC. A prova tinha problemas bem interessantes e que pareciam passáveis no momento do contest, mas acabamos com um desempenho bem abaixo do que esperávamos, com apenas 4 submissões com AC. Ficamos tempo demais em empacados com algumas questões e estávamos bem lentos na escrita de códigos hoje. Faz parte, foi uma prova legal ainda assim e vale muito o upsolving.
+
+Códigos estão disponíveis em [Grupo/2022-Benelux-BAPC](https://github.com/otavioolsilva/MAC0214/tree/main/Grupo/2022-Benelux-BAPC/).
+
+---
+
+## Total de horas: 37 horas
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
