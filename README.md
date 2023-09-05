@@ -52,7 +52,14 @@ Códigos estão disponíveis em [Grupo/2022-Benelux-BAPC](https://github.com/ota
 
 ---
 
-## Total de horas: 37 horas
+## 02/SET - 5 horas
+Junto ao meu time (Pedro Simões e Rafael Sesoko), participamos da [1a Fase da Maratona SBC de Programação](https://maratona.sbc.org.br/) que ocorreu presencialmente na Universidade São Judas Tadeu (USJT) unidade Mooca. Creio que desempenhamos muito bem, alcançando a 28ª posição no placar brasileiro e a 3ª posição na nossa sede, com 8 problemas solucionados de 13. Nossa penalidade ficou um pouco alta, principalmente devido a termos passado as questões de maneira um tanto quanto lenta, precisamos melhorar nesse sentido. Entretanto, felizmente só recebemos um WA em toda a prova (que foi meu inclusive, por besteira). Nossa comunicação funcionou muito bem e o Pedro estava especialmente inspirado, tendo ótimas ideias. Fica o sentimento de que mais uma questão era possível e poderia ter sido o diferencial, mas ainda assim creio que entregamos o possível e nos divertimos com a prova. Com tal resultado infelizmente não nos classificamos para a final brasileira, agora é continuar estudando e treinando para obter resultados ainda melhores ano que vem! :)
+
+Códigos não estão disponíveis.
+
+---
+
+## Total de horas: 42 horas
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
