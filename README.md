@@ -71,7 +71,14 @@ Códigos estão disponíveis em [Grupo/2023-TAP](https://github.com/otavioolsilv
 
 ---
 
-## Total de horas: 47 horas
+## 26/SET - 3 horas (2h + 1h upsolving)
+Realizei ao vivo o contest [Codeforces Round 900 (Div. 3)](https://codeforces.com/contest/1878) na plataforma Codeforces. Infelizmente acabei tendo de deixar o contest antes do fim por conta de compromissos, mas no tempo que tive ainda acho que consegui desempenhar bem, entregando 5/7 problemas. É bem importante que eu faça mais contests individuais pra ganhar velocidade e umas ideias espertas, e essa prova foi bem legal nesse sentido, com alguns problemas de ideias interessantes e com umas implementações legais. O problema F me deu a certeza de que preciso estudar mais Teoria dos Números e Combinatória, pelo menos pra saber lidar com o básico, mas foi bom discutir com o Pedro e o Marcelo sobre essa questão depois e gastar um tempo tentando implementar no upsolving (não ter levado TLE foi um milagre).
+
+Códigos estão disponíveis em [Individual/Codeforces/900_div3](https://github.com/otavioolsilva/MAC0214/tree/main/Individual/Codeforces/900_div3).
+
+---
+
+## Total de horas: 50 horas
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
