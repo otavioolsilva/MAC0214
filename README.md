@@ -85,7 +85,7 @@ Códigos estão disponíveis em [Grupo/2018-GCPC](https://github.com/otavioolsil
 
 ---
 
-## Total de horas: 50 horas
+## Total de horas: 55 horas
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
