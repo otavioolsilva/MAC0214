@@ -88,11 +88,18 @@ Códigos estão disponíveis em [Grupo/2018-GCPC](https://github.com/otavioolsil
 ## 06/OUT - 4 horas
 Junto ao meu time (Pedro Simões e Rafael Sesoko), simulamos a prova [2020-2021 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/103185) no Gym do Codeforces. Não sei ao certo o porquê desta prova ter apenas 4 horas, mas tinhamos um prazo um pouco mais apertado e acabou calhando de ser uma boa prova. Comparada com a prova de 2022-2023 que também simulamos, nosso desempenho foi bem melhor, e acho que realmente ficamos dentro de um bom número de questões, talvez fossemos capazes de passar mais uma com mais tempo (talvez o problema B). Fiquei um pouco decepcionado com meu desempenho individual, acabei não codando nenhuma questão que resultou em AC, gastei muito tempo em questões que não avançaram, mas fico feliz que o time ainda assim desempenhou bem. Novamente um sinal de que preciso pegar mais firme em provas individuais pra ganhar mais repertório, como já havia observado anteriormente.
 
-Códigos estão disponíveis em [Grupo/20-21-ICPC-Latin-American-Regional](https://github.com/otavioolsilva/MAC0214/tree/main/Grupo/20-21-ICPC-Latin-American-Regional/)
+Códigos estão disponíveis em [Grupo/20-21-ICPC-Latin-American-Regional](https://github.com/otavioolsilva/MAC0214/tree/main/Grupo/20-21-ICPC-Latin-American-Regional/).
 
 ---
 
-## Total de horas: 59 horas
+## 07/OUT - 3 horas e 30 minutos
+Realizei ao vivo o contest [Meta Hacker Cup 2023 - Round 1](https://www.facebook.com/codingcompetitions/hacker-cup/2023/round-1), promovido pela Meta. Nunca tinha feito um contest desta empresa e achei o formato um tanto quanto curioso, houveram ainda alguns problemas com os servidores do judge no começo da prova e acabamos ganhando 30 minutos adicionais às 3 horas previstas de contest. São relativamente poucas questões pra quantidade de níveis de competidores que o contest abrange, acho que eu tinha condições de desempenhar melhor do que o resultado que apresentei. O problema C parecia promissor, mas meus cálculos de complexidade do código me desmotivaram da solução que eu tinha em mente (talvez fizesse sentido tentar ainda assim, já que não existe TLE nesse formato, no pior caso ficava brutando a resposta 2 horas :-) ).
+
+Códigos estão disponíveis em [Individual/MetaHackerCup/2023_r1](https://github.com/otavioolsilva/MAC0214/tree/main/Individual/MetaHackerCup/2023_r1).
+
+---
+
+## Total de horas: 62 horas e 30 minutos
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
