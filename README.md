@@ -99,6 +99,13 @@ Códigos estão disponíveis em [Individual/MetaHackerCup/2023_r1](https://githu
 
 ---
 
+## 09/OUT - 2 horas
+Realizei ao vivo o contest [Educational Codeforces Round 156 (Rated for Div. 2)](https://codeforces.com/contest/1886) no Codeforces. Acho que fui bem em quantidade de questões olhando pro placar geral, mas com certeza minha penalidade foi bem alta. Aproveitando o período de hack pra olhar o código de uma galera, acho que compliquei demais as coisas nas minhas implementações dos problemas B e C, a ideia estava no caminho certo mas era possível enxugar mais o código.
+
+Códigos estão disponíveis em [Individual/Codeforces/EDU156_div2](https://github.com/otavioolsilva/MAC0214/tree/main/Individual/Codeforces/EDU156_div2).
+
+---
+
 ## Total de horas: 62 horas e 30 minutos
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
