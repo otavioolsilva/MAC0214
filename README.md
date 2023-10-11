@@ -64,7 +64,7 @@ Aula Manacher e Palindromic Tree do Pedro Teos + exercícios
 
 ---
 
-## 22/SET - 5 horas
+## 22/SET - 7 horas (5h + 2h upsolving)
 Junto ao meu time (Pedro Simões e Rafael Sesoko), simulamos a prova [2023 Argentinian Programming Tournament (TAP)](https://codeforces.com/gym/104603) no Gym do Codeforces. Havia algum tempo que não fazíamos nenhuma prova juntos (a última foi a subreg da ICPC) e foi muito bom ter voltado a treinar com a galera. Nosso desempenho foi bem legal, resolvendo 9 questões das 14 totais, e ainda acredito que éramos capazes de termos resolvido pelo menos mais uma, mas o tempo foi apertado. Creio que precisamos ter uma atenção em especial com o desempenho individual, exercitando mais a velocidade de escrita de código e ganhar repertório pra ideias.
 
 Códigos estão disponíveis em [Grupo/2023-TAP](https://github.com/otavioolsilva/MAC0214/tree/main/Grupo/2023-TAP/).
@@ -106,7 +106,7 @@ Códigos estão disponíveis em [Individual/Codeforces/EDU156_div2](https://gith
 
 ---
 
-## Total de horas: 62 horas e 30 minutos
+## Total de horas: 64 horas e 30 minutos
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
