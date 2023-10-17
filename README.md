@@ -78,7 +78,7 @@ Códigos estão disponíveis em [Individual/Codeforces/900_div3](https://github.
 
 ---
 
-## 29/SET - 5 horas
+## 29/SET - 10 horas (5h + 5h upsolving)
 Junto ao meu time (Pedro Simões e Rafael Sesoko), simulados a prova [2018 German Collegiate Programming Contest (GCPC 18)](https://codeforces.com/gym/102021) no Gym do Codeforces. Creio que nossa dinâmica de prova hoje não funcionou muito bem, constantemente eu e o Pedro em especial ficamos ociosos enquanto o outro codava. Acho que o upsolving vai ser um bom momento pra discutir alguns dos problemas da prova e também tentar entender com calma como poderíamos ter feito melhor. Ainda assim, foi um contest legal, com questões desafiadoras e conteúdos que valem a pena ser revisados.
 
 Códigos estão disponíveis em [Grupo/2018-GCPC](https://github.com/otavioolsilva/MAC0214/tree/main/Grupo/2018-GCPC/).
@@ -106,7 +106,7 @@ Códigos estão disponíveis em [Individual/Codeforces/EDU156_div2](https://gith
 
 ---
 
-## Total de horas: 65 horas
+## Total de horas: 70 horas
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
