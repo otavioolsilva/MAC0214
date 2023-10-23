@@ -106,7 +106,14 @@ Códigos estão disponíveis em [Individual/Codeforces/EDU156_div2](https://gith
 
 ---
 
-## Total de horas: 74 horas
+## 20/OUT - 5 horas
+Junto ao meu time (Pedro Simões e Rafael Sesoko), simulamos a prova [2020-2021 ICPC Southwestern European Regional Contest (SWERC 2020) ](https://codeforces.com/gym/103081) no Gym do Codeforces. Essa talvez tenha sido a prova que tivemos mais dificuldade de todas que fizemos até hoje, fizemos apenas 4 questões, mas realmente ela aparentava estar num nível mais alto. Ainda não tive tempo de upsolvar, mas olhando por cima me parece muito curioso que a terceira questão mais passada tenha sido a K, que não nos pareceu nem um pouco trivial e parecia um salto gigante de dificuldade em relação às outras questões que fizemos. Gastei quase a prova toda nela, o que sem dúvida nos prejudicou. Acho que foi uma boa prova pra destacar alguns pontos com relação à nossa organização enquanto time, acho que vai ser interessante gastar tempo conversando sobre o que aconteceu e porque não desempenhamos melhor, além de olhar o conteúdo das outras questões.
+
+Códigos estão disponíveis em [Grupo/SWERC-2020](https://github.com/otavioolsilva/MAC0214/tree/main/Grupo/SWERC-2020/).
+
+---
+
+## Total de horas: 79 horas
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
