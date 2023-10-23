@@ -92,7 +92,7 @@ Códigos estão disponíveis em [Grupo/20-21-ICPC-Latin-American-Regional](https
 
 ---
 
-## 07/OUT - 3 horas e 30 minutos
+## 07/OUT - 5 horas e 30 minutos (3h30 + 2h upsolving)
 Realizei ao vivo o contest [Meta Hacker Cup 2023 - Round 1](https://www.facebook.com/codingcompetitions/hacker-cup/2023/round-1), promovido pela Meta. Nunca tinha feito um contest desta empresa e achei o formato um tanto quanto curioso, houveram ainda alguns problemas com os servidores do judge no começo da prova e acabamos ganhando 30 minutos adicionais às 3 horas previstas de contest. São relativamente poucas questões pra quantidade de níveis de competidores que o contest abrange, acho que eu tinha condições de desempenhar melhor do que o resultado que apresentei. O problema C parecia promissor, mas meus cálculos de complexidade do código me desmotivaram da solução que eu tinha em mente (talvez fizesse sentido tentar ainda assim, já que não existe TLE nesse formato, no pior caso ficava brutando a resposta 2 horas :-) ).
 
 Códigos estão disponíveis em [Individual/MetaHackerCup/2023_r1](https://github.com/otavioolsilva/MAC0214/tree/main/Individual/MetaHackerCup/2023_r1).
@@ -113,7 +113,7 @@ Códigos estão disponíveis em [Grupo/SWERC-2020](https://github.com/otavioolsi
 
 ---
 
-## Total de horas: 79 horas
+## Total de horas: 81 horas
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
