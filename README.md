@@ -113,7 +113,12 @@ Códigos estão disponíveis em [Grupo/SWERC-2020](https://github.com/otavioolsi
 
 ---
 
-## Total de horas: 83 horas
+## 28/OUT - 2 horas e 30 minutos
+Realizei ao vivo o contest [Codeforces Round 906 (Div. 2)](https://codeforces.com/contest/1890) no Codeforces. Creio que eu poderia ter desempenhado melhor, entregando os problemas D ou E1, fiquei a última hora da prova sem saber muito bem qual dos dois enfrentar e acabei por não ter ideias produtivas. Olhando o editorial, talvez ter insistido na D e fazer uma análise mais profunda da condição que ela fornece fosse uma boa saída. Também cometi um erro bobo no problema A e levei um WA sem necessidade, me custando ainda 10 minutos pra achar um parênteses errado.
+
+---
+
+## Total de horas: 85 horas e 30 minutos
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
