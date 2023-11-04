@@ -120,7 +120,14 @@ Códigos estão disponíveis em [Individual/Codeforces/906_div2](https://github.
 
 ---
 
-## Total de horas: 85 horas e 30 minutos
+## 03/NOV - 2 horas
+Realizei ao vivo o contest [Educational Codeforces Round 157 (Rated for Div. 2)](https://codeforces.com/contest/1895) no Codeforces. Foi um bom contest, acho que pequei um pouco na velocidade de entrega das questões (e fiz um código um tanto quanto desorganizado pra C, mas funcionou!), mas em termos de conteúdo acho que fiquei dentro do esperado. Tive uma ideia próxima do esperado para o problema D, mas não soube efetivamente como otimizar a solução. No upsolving, percebi que realmente era esperado uma estrutura (trie) a qual nem cogitei, mais uma ideia pro repertório.
+
+Códigos estão disponíveis em [Individual/Codeforces/EDU157_div2](https://github.com/otavioolsilva/MAC0214/tree/main/Individual/Codeforces/EDU157_div2).
+
+---
+
+## Total de horas: 87 horas e 30 minutos
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
