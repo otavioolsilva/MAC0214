@@ -120,14 +120,21 @@ Códigos estão disponíveis em [Individual/Codeforces/906_div2](https://github.
 
 ---
 
-## 03/NOV - 2 horas
+## 03/NOV - 2 horas e 30 minutos (2h + 30min upsolving)
 Realizei ao vivo o contest [Educational Codeforces Round 157 (Rated for Div. 2)](https://codeforces.com/contest/1895) no Codeforces. Foi um bom contest, acho que pequei um pouco na velocidade de entrega das questões (e fiz um código um tanto quanto desorganizado pra C, mas funcionou!), mas em termos de conteúdo acho que fiquei dentro do esperado. Tive uma ideia próxima do esperado para o problema D, mas não soube efetivamente como otimizar a solução. No upsolving, percebi que realmente era esperado uma estrutura (trie) a qual nem cogitei, mais uma ideia pro repertório.
 
 Códigos estão disponíveis em [Individual/Codeforces/EDU157_div2](https://github.com/otavioolsilva/MAC0214/tree/main/Individual/Codeforces/EDU157_div2).
 
 ---
 
-## Total de horas: 87 horas e 30 minutos
+## 03/NOV - 3 horas (2h + 1h upsolving)
+Simulei o contest [Codeforces Round 907 (Div. 2)](https://codeforces.com/contest/1891) no Codeforces. Um contest um tanto quanto peculiar nas suas questões eu diria. Achei o problema B bem legal, tinha uma observação interessante para a solução. A C, por outro lado, era apenas um guloso que no momento da prova não fui capaz de pegar. Fiquei um bom tempo tentando encontrar uma estratégia e reparei que muitos estavam passando a F, que era um problema de implementação um tanto quanto direto de Euler Tour. Já logo fui codar e se tivesse mais 5 minutos teria passado, mas faz parte, deveria ter me organizado melhor com o tempo.
+
+Códigos estão disponíveis em [Individual/Codeforces/907_div2](https://github.com/otavioolsilva/MAC0214/tree/main/Individual/Codeforces/907_div2).
+
+---
+
+## Total de horas: 91 horas
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
