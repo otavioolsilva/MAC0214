@@ -134,7 +134,14 @@ Códigos estão disponíveis em [Individual/Codeforces/907_div2](https://github.
 
 ---
 
-## Total de horas: 91 horas
+## 10/NOV - 5 horas
+Junto ao meu time (Pedro Simões e Rafael Sesoko) simulamos a prova [IX Maratona Mineira de Programação](https://codeforces.com/group/YgJmumGtHD/contest/103794) no Codeforces. Já havia algum tempo que não treinávamos juntos por conta da correria do semestre então decidimos pegar uma prova 3 estrelas, e fiquei bem feliz com o desempenho! Acho que mandamos muito bem nas primeiras horas de prova, passando as questões mais simples rapidamente e nos organizando bem para atacar as próximas. Entretanto, as últimas questões foram bem mais complexas e tivemos bem mais dificuldade. Ainda assim, bom saber que realmente devemos focar nessas questões mais complexas e menos objetivas em nossos próximos treinos, já que estamos nos dando bem com as mais simples. Talvez o treino individual seja ideal para ganhar velocidade, enquanto os em grupo focamos na dinâmica de contest e insistimos em contests 4 estrelas. Temos o que discutir no upsolving :).
+
+Códigos estão disponíveis em [Grupo/IX-Maratona-Mineira](https://github.com/otavioolsilva/MAC0214/tree/main/Grupo/IX-Maratona-Mineira/).
+
+---
+
+## Total de horas: 96 horas
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
