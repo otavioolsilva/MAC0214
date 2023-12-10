@@ -148,14 +148,21 @@ Códigos estão disponíveis em [Individual/Codeforces/909_div3](https://github.
 
 ---
 
-# 24/NOV - 3 horas (2h + 1h upsolving)
+## 24/NOV - 3 horas (2h + 1h upsolving)
 Realizei ao vivo o contest [Educational Codeforces Round 158 (Rated for Div. 2)](https://codeforces.com/contest/1901) no Codeforces. Em contraste com o anterior, acho que esse talvez tenha sido um dos meus piores desempenhos em contests. O final de semestre anda apertado, então nossa frequência de treinos reduziu drasticamente, mas ainda assim tenho tentado realizar alguns contests individuais. Passei o primeiro problema com certa rapidez, mas simplesmente empaquei logo no segundo. Era bem adhoc, mas não consegui ter a visão correta do problema na hora de prova, só no upsolving que fui entender de que maneira eu tinha que abordar o problema. Cheguei até a olhar o problema C, mas o B parecia bem mais passável (e o placar também deixava isso claro). Mas ainda assim acredito que eu deveria ter seguido em frente, acabei gastando a prova inteira num problema que não saiu.
 
 Códigos estão disponíveis em [Individual/Codeforces/EDU158_div2](https://github.com/otavioolsilva/MAC0214/tree/main/Individual/Codeforces/EDU158_div2).
 
 ---
 
-## Total de horas: 101 horas e 15 minutos
+# 30/NOV - 2 horas e 15 minutos
+Realizei ao vivo o contest [Codeforces Round 912 (Div. 2)](https://codeforces.com/contest/1903) no Codeforces. A sensação que tenho é que existe um gap muito grande entre os rounds div. 3 e div. 2, realmente preciso voltar a ganhar prática com rounds individuais e upsolvar com mais calma os problemas que não passei. Achei o problema C bem estranho e não tive nenhuma ideia durante algum bom tempo. Entretanto, o D1 me pareceu bem mais razoável, decidi arriscar, mas apostei numa lógica errada. O problema em si não era difícil e a solução esperada era algo que eu até cogitei, mas fui por um caminho que me pareceu mais certo e na verdade minha solução tinha alguns buracos.
+
+Códigos estão disponíveis em [Individual/Codeforces/912_div2](https://github.com/otavioolsilva/MAC0214/tree/main/Individual/Codeforces/912_div2).
+
+---
+
+## Total de horas: 103 horas e 30 minutos
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
