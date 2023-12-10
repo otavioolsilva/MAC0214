@@ -141,7 +141,14 @@ Códigos estão disponíveis em [Grupo/IX-Maratona-Mineira](https://github.com/o
 
 ---
 
-## Total de horas: 96 horas
+## 17/NOV - 2 horas e 15 minutos
+Realizei ao vivo o contest [Codeforces Round 909 (Div. 3)](https://codeforces.com/contest/1899) no Codeforces. Foi um excelente contest, fiquei com o sentimento de que se houvessem mais alguns minutos eu poderia até mesmo ter fechado a prova. A última questão parecia bem possível e acho que eu estava no caminho certo.
+
+Códigos estão disponíveis em [Individual/Codeforces/909_div3](https://github.com/otavioolsilva/MAC0214/tree/main/Individual/Codeforces/909_div3).
+
+---
+
+## Total de horas: 98 horas e 15 minutos
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
