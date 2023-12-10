@@ -59,8 +59,8 @@ Códigos não estão disponíveis.
 
 ---
 
-## 13/SET - x horas
-Aula Manacher e Palindromic Tree do Pedro Teos + exercícios
+## 13/SET - 2 horas
+Aula Manacher e Palindromic Tree do Pedro Teos.
 
 ---
 
@@ -155,14 +155,14 @@ Códigos estão disponíveis em [Individual/Codeforces/EDU158_div2](https://gith
 
 ---
 
-# 30/NOV - 2 horas e 15 minutos
+## 30/NOV - 2 horas e 15 minutos
 Realizei ao vivo o contest [Codeforces Round 912 (Div. 2)](https://codeforces.com/contest/1903) no Codeforces. A sensação que tenho é que existe um gap muito grande entre os rounds div. 3 e div. 2, realmente preciso voltar a ganhar prática com rounds individuais e upsolvar com mais calma os problemas que não passei. Achei o problema C bem estranho e não tive nenhuma ideia durante algum bom tempo. Entretanto, o D1 me pareceu bem mais razoável, decidi arriscar, mas apostei numa lógica errada. O problema em si não era difícil e a solução esperada era algo que eu até cogitei, mas fui por um caminho que me pareceu mais certo e na verdade minha solução tinha alguns buracos.
 
 Códigos estão disponíveis em [Individual/Codeforces/912_div2](https://github.com/otavioolsilva/MAC0214/tree/main/Individual/Codeforces/912_div2).
 
 ---
 
-## Total de horas: 103 horas e 30 minutos
+## Total de horas: 107 horas e 30 minutos
 
 Perfil no Codeforces: [otavio.ols](https://codeforces.com/profile/otavio.ols)
 
